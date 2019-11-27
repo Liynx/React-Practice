@@ -1,0 +1,5 @@
+script running: 
+
+live-server public
+
+npm run babelwatch
